@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011228341055",
+    "project_id": "bire-398c6",
+    "storage_bucket": "bire-398c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011228341055:android:eb737b2d85ab089aec198a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011228341055-clpu0c5rqo7n96csh5dea8gb8lb9geh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVylCQNyLSsuFggW_unLqj7LdbPv8bReY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011228341055-clpu0c5rqo7n96csh5dea8gb8lb9geh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
